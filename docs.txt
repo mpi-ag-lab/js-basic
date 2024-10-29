@@ -1,0 +1,7 @@
+js introduction
+internal js
+external js
+output
+
+variable ---> var , let , const
+comment ---> single line comment (//), multiline comment (/* */)
